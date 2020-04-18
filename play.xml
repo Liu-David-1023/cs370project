@@ -1,0 +1,52 @@
+<ripndip>
+  <stage level="1">
+    <steps>L</steps>
+    <playertimer>5</playertimer>
+    <actiontimer>1</actiontimer>
+  </stage>
+   <stage level="2">
+    <steps>L,R</steps>
+    <playertimer>5</playertimer>
+    <actiontimer>1</actiontimer>
+  </stage> 
+   <stage level="3">
+    <steps>L,R,R,L</steps>
+    <playertimer>4.5</playertimer>
+    <actiontimer>0.9</actiontimer>
+  </stage>  
+  <stage level="4">
+    <steps>R,L,R,L,L</steps>
+    <playertimer>4.5</playertimer>
+    <actiontimer>0.9</actiontimer>
+  </stage>  
+  <stage level="5">
+    <steps>R,L,R,L,L,R</steps>
+    <playertimer>4.5</playertimer>
+    <actiontimer>0.8</actiontimer>
+  </stage>
+  <stage level="6">
+    <steps>R,L,R,L,L,R,R,L</steps>
+    <playertimer>4.0</playertimer>
+    <actiontimer>0.8</actiontimer>
+  </stage>
+  <stage level="7">
+    <steps>L,R,R,L,R,L,L,R,R,L</steps>
+    <playertimer>4.0</playertimer>
+    <actiontimer>0.8</actiontimer>
+  </stage>
+  <stage level="8">
+    <steps>R,L,R,R,L,R,L,L,R,R,L,R</steps>
+    <playertimer>3.5</playertimer>
+    <actiontimer>0.7</actiontimer>
+  </stage>
+  <stage level="9">
+    <steps>L,R,R,L,R,R,L,R,L,L,R,R,L,R</steps>
+    <playertimer>3.5</playertimer>
+    <actiontimer>0.7</actiontimer>
+  </stage>
+  <stage level="10">
+    <steps>L,R,R,L,R,L,R,L,R,L,R,L,L,R,R,L,R</steps>
+    <playertimer>3.5</playertimer>
+    <actiontimer>0.7</actiontimer>
+  </stage>
+</ripndip>
